@@ -1,2 +1,2 @@
 # FaultTree
-MATLAB Simulink Based Fault Tree Analyzer
+MATLAB Simulink Based Fault Tree Analyser
