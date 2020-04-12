@@ -4,7 +4,7 @@
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - \Python Style Guide"></a>
 
 <p align="center">
- <img src=""> </p>
+ <img src="https://github.com/koo-ec/FaultTree/blob/master/screenshot.jpg"> </p>
 
 # FaultTree
 MATLAB Simulink Based Fault Tree Analyser
