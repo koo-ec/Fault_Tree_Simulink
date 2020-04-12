@@ -7,7 +7,9 @@
 MATLAB Simulink Based Fault Tree Analyser
 
 <p align="center">
- <img src="https://github.com/koo-ec/FaultTree/blob/master/screenshot.jpg"> </p>
+ <img src="https://github.com/koo-ec/FaultTree/blob/master/screenshot.jpg">
+ <figcaption>Figure 1. Fault Tree of an Autonomous Underwater Gliding Robot (Aslansefat, K. et al. 2014)</figcaption>
+</p>
 
 ## Related Publications
 <p align="justify">
