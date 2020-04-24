@@ -11,6 +11,14 @@ MATLAB Simulink Based Fault Tree Analyser
  <figcaption>Figure 1. Fault Tree of an Autonomous Underwater Gliding Robot (Aslansefat, K. et al. 2014)</figcaption>
 </p>
 
+## Assumptions 
+To have an accurate results the following assumptions should be considered:
+* The system components' failure rates obeys exponential distribution function.
+* The occurrence of more than one fault at the sametime is not allowed and the common cause failures (CCFs) are ignored.
+* Real-time repairing of vehicle's components is not allowed.
+* Dynamic characteristics such as functionaldependency, components' priority and the use ofspares are not applied in the model.
+* Repeated events may reduce the accuracy.
+
 ## Related Publications
 <p align="justify">
 <b>Aslansefat, Koorosh</b>, Latif-Shabgahi, G., & Kamarlouei, M. (2014). <b>A strategy for reliability evaluation and fault diagnosis of Autonomous Underwater Gliding Robot based on its Fault Tree </b>. International Journal of Advances in Science Engineering and Technology, 2(4), 83-89.</p>
