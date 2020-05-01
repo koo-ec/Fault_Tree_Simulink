@@ -1,7 +1,6 @@
 <p align="left"> </p>
 
 [![View Fault Tree of Autonomous Underwater Gliding Robot on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/55522-fault-tree-of-autonomous-underwater-gliding-robot)
-
  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - \Python Style Guide"></a>
 
