@@ -3,7 +3,7 @@
  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - \Python Style Guide"></a>
 
-# FaultTree
+# Fault Tree Analysis (FTA)
 MATLAB Simulink Based Fault Tree Analyser
 
 <p align="center">
