@@ -14,7 +14,6 @@ clc
 %%
 % Run Simulation Model
 sim('Glider_FTA.mdl');
-sim('Fault_Tree_11.mdl');
 
 %% 
 % Plot Total Reliability
